@@ -1,5 +1,25 @@
-body {
-  background-color: aquamarine;
+.footer {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.footer a {
+  color: black;
+  list-style: none;
+  text-decoration: none;
+  margin: auto;
+}
+
+.footer a img {
+  padding-top: 10px;
+  width: 30px;
+}
+
+.navbar-nav {
+  margin-left: auto;
+  /*position: absolute;
+  left: 50%;
+  transform: translatex(-50%);*/
 }
 
 /*# sourceMappingURL=style.css.map */
