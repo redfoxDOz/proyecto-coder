@@ -40,8 +40,9 @@ h1 {
 
 .navbar-nav {
   margin-left: auto;
+  font-size: 25px;
   /*position: absolute;
-    left: 50%;
+    left: 50%;b
     transform: translatex(-50%);*/
 }
 
