@@ -2,6 +2,23 @@ body {
   background-color: white;
 }
 
+.ofertas {
+  position: sticky;
+  opacity: 80%;
+  border-radius: 200px;
+  margin: 1px;
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  margin: 2px;
+  padding: 12px;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  line-height: 30px;
+}
+
 .footer {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
