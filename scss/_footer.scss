@@ -3,7 +3,7 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     
-    
+    border-bottom: solid gray 5px;
     
   }
   
@@ -17,4 +17,6 @@
   .footer a img{
     padding-top: 10px;
     width: 30px;
+    padding-bottom: 20px;
+   
   }
