@@ -1,5 +1,5 @@
 body {
-  background-color: white;
+  background-color: #ffffff;
 }
 
 .ofertas {
@@ -40,7 +40,7 @@ h1 {
 
 .navbar-nav {
   margin-left: auto;
-  font-size: 25px;
+  font-size: 20px;
   /*position: absolute;
     left: 50%;b
     transform: translatex(-50%);*/
